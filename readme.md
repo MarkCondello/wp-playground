@@ -1,0 +1,3 @@
+## admin logins
+user
+password

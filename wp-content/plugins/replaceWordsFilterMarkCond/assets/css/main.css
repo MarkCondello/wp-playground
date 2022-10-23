@@ -1,0 +1,13 @@
+#replace-words-main-page .container {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+#replace-words-main-page .container textarea {
+  height: 200px;
+}
+
+/* .wrap {
+  border: 1px solid red;
+  color: red;
+}  */
